@@ -1,2 +1,2 @@
 # water
-A  game server architecture framework based on golang
+A  game server  framework based on golang
